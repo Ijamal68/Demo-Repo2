@@ -1,16 +1,7 @@
-#   DEMO again 
+# HEADER 
 
-some text goes here
+text below header 
 
+## Subheader 
 
-
-#   Second header goes here 
-
-## first subheader goes here 
-
-j;lkafjnlaofirnl;kfjal123qwerty
-
-
-
-github is pretty cool all those cool people like devin spinnler(who is NOT racist!!) use it  
-
+all the text below the subheader 
